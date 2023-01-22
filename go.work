@@ -9,4 +9,5 @@ use (
 	./6-pointers-errors
 	./7-maps
 	./8-dependency-injection
+	./9-mocking
 )
