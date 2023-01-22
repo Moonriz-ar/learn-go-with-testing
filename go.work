@@ -2,6 +2,7 @@ go 1.19
 
 use (
 	./1-hello-world
+	./10-concurrency
 	./2-integers
 	./3-iteration
 	./4-arrays-slices
