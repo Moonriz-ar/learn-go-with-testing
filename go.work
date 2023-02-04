@@ -4,6 +4,7 @@ use (
 	./1-hello-world
 	./10-concurrency
 	./11-select
+	./12-temp
 	./2-integers
 	./3-iteration
 	./4-arrays-slices
