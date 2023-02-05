@@ -7,6 +7,7 @@ use (
 	./12-temp
 	./13-reflection
 	./14-sync
+	./15-context
 	./2-integers
 	./3-iteration
 	./4-arrays-slices
