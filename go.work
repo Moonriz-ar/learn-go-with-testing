@@ -8,6 +8,7 @@ use (
 	./13-reflection
 	./14-sync
 	./15-context
+	./16-property-based-tests
 	./2-integers
 	./3-iteration
 	./4-arrays-slices
