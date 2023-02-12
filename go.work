@@ -9,6 +9,7 @@ use (
 	./14-sync
 	./15-context
 	./16-property-based-tests
+	./17-reading-files
 	./2-integers
 	./3-iteration
 	./4-arrays-slices
